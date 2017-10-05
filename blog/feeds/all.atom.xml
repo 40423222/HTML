@@ -33,14 +33,14 @@
 &lt;li&gt;XMP 所產生的效果
 &lt;li&gt;class屬性
 &lt;/ul&gt;
-&lt;li&gt;&lt;h3&gt; &lt;a href="https://40423222.github.io/HTML/blog/Total.html"&gt;&lt;b&gt;HTML-texts&lt;/b&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;li&gt;&lt;h3&gt; &lt;a href="https://40423222.github.io/HTML/blog/Total.html"&gt;&lt;b&gt;Total 總合&lt;/b&gt;&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;總合全部的內容
 &lt;/ul&gt;
 
 &lt;hr&gt;
 
-&lt;p&gt;注意: 要一直跟新時間,這樣才能顯示在第一&lt;/p&gt;</summary><category term="HTML"></category><category term="Tags"></category></entry><entry><title>ShowCode 顯示程式指令</title><link href="./ShowCode.html" rel="alternate"></link><published>2017-09-23T22:32:00+08:00</published><updated>2017-09-23T22:32:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-09-23:./ShowCode.html</id><summary type="html">&lt;p&gt;以下為HTML的Show code說明&lt;/p&gt;
+&lt;p&gt;注意: 要一直跟新時間,這樣才能顯示在第一&lt;/p&gt;</summary><category term="HTML"></category><category term="目錄"></category></entry><entry><title>ShowCode 顯示程式指令</title><link href="./ShowCode.html" rel="alternate"></link><published>2017-09-23T22:32:00+08:00</published><updated>2017-09-23T22:32:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-09-23:./ShowCode.html</id><summary type="html">&lt;p&gt;以下為HTML的Show code說明&lt;/p&gt;
 
 
 &lt;!-- 從2017springcd_hw複製過來 --&gt;
@@ -93,7 +93,7 @@ PRE 所產生的效果:
     This is a test by &lt;a href="/jang"&gt;Roger Jang&lt;/a&gt;.
     1&lt;br&gt;2&lt;p&gt;&lt;marquee direction=left  bgcolor="#9999ff" behavior=alternate scrollamount=30 scrolldelay=100&gt;嘿嘿！我是三號跑馬燈&lt;/marquee&gt;
 &lt;/xmp&gt;
-&lt;/pre&gt;&lt;/p&gt;</summary><category term="HTML"></category><category term="ShowCode"></category></entry><entry><title>ScrollingText 跑馬燈指令</title><link href="./ScrollingText.html" rel="alternate"></link><published>2017-09-23T22:31:00+08:00</published><updated>2017-09-23T22:31:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-09-23:./ScrollingText.html</id><summary type="html">&lt;p&gt;以下為HTML的Scrolling text說明&lt;/p&gt;
+&lt;/pre&gt;&lt;/p&gt;</summary><category term="HTML"></category></entry><entry><title>ScrollingText 跑馬燈指令</title><link href="./ScrollingText.html" rel="alternate"></link><published>2017-09-23T22:31:00+08:00</published><updated>2017-09-23T22:31:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-09-23:./ScrollingText.html</id><summary type="html">&lt;p&gt;以下為HTML的Scrolling text說明&lt;/p&gt;
 
 
 &lt;!-- 從2017springcd_hw複製過來 --&gt;
@@ -135,7 +135,7 @@ PRE 所產生的效果:
 &lt;td&gt;height="a" width="b"&lt;td&gt;高度跟寬度設定  
 &lt;tr&gt;
 &lt;td class=boldw&gt;其它說明&lt;td colspan=2&gt;有關跑馬燈的屬性和其意義，讀者大概可以從上述範例猜出來吧？（若真的猜不出來，到搜尋引擎找找，應該可以找到答案。） 
-&lt;/table&gt;</summary><category term="HTML"></category><category term="ScrollingText"></category></entry><entry><title>Formula 數學公式指令</title><link href="./Formula.html" rel="alternate"></link><published>2017-09-23T22:30:00+08:00</published><updated>2017-09-23T22:30:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-09-23:./Formula.html</id><summary type="html">&lt;p&gt;以下為HTML的Formula說明&lt;/p&gt;
+&lt;/table&gt;</summary><category term="HTML"></category></entry><entry><title>Formula 數學公式指令</title><link href="./Formula.html" rel="alternate"></link><published>2017-09-23T22:30:00+08:00</published><updated>2017-09-23T22:30:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-09-23:./Formula.html</id><summary type="html">&lt;p&gt;以下為HTML的Formula說明&lt;/p&gt;
 
 
 &lt;!-- 從2017springcd_hw複製過來 --&gt;
@@ -175,7 +175,7 @@ exp[-(x-&lt;font face=symbol&gt;m&lt;/font&gt;)&lt;sup&gt;T&lt;/sup&gt;&lt;font 
 其中 &lt;font face=symbol&gt;m&lt;/font&gt; 是此高斯機率密度函數的平均向量（Mean vector），
 &lt;font face=symbol&gt;S&lt;/font&gt; 則是其共變異矩陣（Covariance matrix）
 &lt;/xmp&gt;
-&lt;/pre&gt;&lt;/p&gt;</summary><category term="HTML"></category><category term="Formula"></category></entry><entry><title>Table 表格指令</title><link href="./Table.html" rel="alternate"></link><published>2017-09-23T22:28:00+08:00</published><updated>2017-09-23T22:28:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-09-23:./Table.html</id><summary type="html">&lt;p&gt;以下為HTML的Table說明&lt;/p&gt;
+&lt;/pre&gt;&lt;/p&gt;</summary><category term="HTML"></category></entry><entry><title>Table 表格指令</title><link href="./Table.html" rel="alternate"></link><published>2017-09-23T22:28:00+08:00</published><updated>2017-09-23T22:28:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-09-23:./Table.html</id><summary type="html">&lt;p&gt;以下為HTML的Table說明&lt;/p&gt;
 
 
 &lt;!-- 從2017springcd_hw複製過來 --&gt;
@@ -238,7 +238,7 @@ exp[-(x-&lt;font face=symbol&gt;m&lt;/font&gt;)&lt;sup&gt;T&lt;/sup&gt;&lt;font 
 &lt;td style="text-align:center"&gt;valign字體在這格的垂直放置位置&lt;/td&gt;
 &lt;/table&gt;
 &lt;/xmp&gt;
-&lt;/pre&gt;&lt;/p&gt;</summary><category term="HTML"></category><category term="Table"></category></entry><entry><title>Paragraphs 換行指令</title><link href="./Paragraphs.html" rel="alternate"></link><published>2017-09-23T22:23:00+08:00</published><updated>2017-09-23T22:23:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-09-23:./Paragraphs.html</id><summary type="html">&lt;p&gt;以下為HTML的Paragraphs說明&lt;/p&gt;
+&lt;/pre&gt;&lt;/p&gt;</summary><category term="HTML"></category></entry><entry><title>Paragraphs 換行指令</title><link href="./Paragraphs.html" rel="alternate"></link><published>2017-09-23T22:23:00+08:00</published><updated>2017-09-23T22:23:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-09-23:./Paragraphs.html</id><summary type="html">&lt;p&gt;以下為HTML的Paragraphs說明&lt;/p&gt;
 
 
 &lt;!-- 從2017springcd_hw複製過來 --&gt;
@@ -300,7 +300,7 @@ exp[-(x-&lt;font face=symbol&gt;m&lt;/font&gt;)&lt;sup&gt;T&lt;/sup&gt;&lt;font 
 &lt;xmp&gt;
 123&lt;blockquote&gt;文字會自成一個段落，並以縮排的方式表現出來，而且與上下文章保留一段空白&lt;/blockquote&gt;123
 &lt;/xmp&gt;
-&lt;/pre&gt;&lt;/p&gt;</summary><category term="HTML"></category><category term="Paragraphs"></category></entry><entry><title>Font 字體效果</title><link href="./Font.html" rel="alternate"></link><published>2017-09-23T22:21:00+08:00</published><updated>2017-09-23T22:21:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-09-23:./Font.html</id><summary type="html">&lt;p&gt;以下為HTML的Font說明&lt;/p&gt;
+&lt;/pre&gt;&lt;/p&gt;</summary><category term="HTML"></category></entry><entry><title>Font 字體效果</title><link href="./Font.html" rel="alternate"></link><published>2017-09-23T22:21:00+08:00</published><updated>2017-09-23T22:21:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-09-23:./Font.html</id><summary type="html">&lt;p&gt;以下為HTML的Font說明&lt;/p&gt;
 
 
 &lt;!-- 從2017springcd_hw複製過來 --&gt;
@@ -408,166 +408,7 @@ FACE="Symbol" 你便可以顯示羅馬字母 &lt;font face="Symbol"&gt;a, b, c, 
 &lt;tr&gt;&lt;td&gt;&amp;lt;TT&amp;gt;&lt;td&gt;將所標記的文字以 &lt;tt&gt; Teletype font &lt;/tt&gt;字型表現，常用在固定大小的文字上
 &lt;tr&gt;&lt;td&gt;&amp;lt;CODE&amp;gt;&lt;td&gt;將所標記的文字以 &lt;code&gt; Code Fragment &lt;/tt&gt;字型表現，常用在程式碼的敘述上
 &lt;tr&gt;&lt;td&gt;&amp;lt;VAR&amp;gt;&lt;td&gt;將所標記的文字以 &lt;var&gt; Variable &lt;/var&gt;字型表現，常用在算數式的變數上
-&lt;/table&gt;</summary><category term="HTML"></category><category term="Font"></category></entry><entry><title>Texts 文字</title><link href="./Texts.html" rel="alternate"></link><published>2017-09-23T21:32:00+08:00</published><updated>2017-09-23T21:32:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-09-23:./Texts.html</id><summary type="html">&lt;p&gt;介紹關於文字的指令&lt;/p&gt;
-
-
-&lt;!-- 從2017springcd_hw複製過來 --&gt;
-
-&lt;hr&gt;
-
-&lt;h2&gt;小工具:&lt;/h2&gt;
-&lt;p&gt;&lt;table align=center border=1 cellspacing=0 style="border:1px solid black" bgcolor=white&gt;
-&lt;tr&gt;&lt;th class=boldw&gt;標籤&lt;th class=boldw&gt;說明及範例
-&lt;tr&gt;&lt;td&gt;&amp;lt;B&amp;gt;&lt;td&gt;將所標記的文字&lt;b&gt;字型加粗
-&lt;tr&gt;&lt;td&gt;&amp;lt;I&amp;gt;&lt;td&gt;將所標記的文字&lt;i&gt;變成斜體
-&lt;tr&gt;&lt;td&gt;&amp;lt;U&amp;gt;&lt;td&gt;將所標記的文字&lt;u&gt;加上底線&lt;/u&gt;
-&lt;tr&gt;&lt;td&gt;&amp;lt;STRIKE&amp;gt;&lt;td&gt;將所標記的文字&lt;strike&gt;畫線刪除&lt;/strike&gt;
-&lt;tr&gt;&lt;td&gt;&amp;lt;BIG&amp;gt;&lt;td&gt;將所標記的文字&lt;big&gt;放大&lt;/big&gt;
-&lt;tr&gt;&lt;td&gt;&amp;lt;SMALL&amp;gt;&lt;td&gt;將所標記的文字&lt;small&gt;縮小&lt;/small&gt;
-&lt;tr&gt;&lt;td&gt;&amp;lt;SUP&amp;gt;&lt;td&gt;將所標記的文字&lt;sup&gt;變成上標&lt;/sup&gt;
-&lt;tr&gt;&lt;td&gt;&amp;lt;SUB&amp;gt;&lt;td&gt;將所標記的文字&lt;sub&gt;變成下標&lt;/sub&gt;
-&lt;tr&gt;&lt;td&gt;&amp;lt;EM&amp;gt;&lt;td&gt;將所標記的文字&lt;em&gt;加以強調&lt;/em&gt;
-&lt;tr&gt;&lt;td&gt;&amp;lt;STRONG&amp;gt;&lt;td&gt;將所標記的文字&lt;strong&gt;加重語氣&lt;/strong&gt;
-&lt;tr&gt;&lt;td&gt;&amp;lt;TT&amp;gt;&lt;td&gt;將所標記的文字以 &lt;tt&gt; Teletype font &lt;/tt&gt;字型表現，常用在固定大小的文字上
-&lt;tr&gt;&lt;td&gt;&amp;lt;CODE&amp;gt;&lt;td&gt;將所標記的文字以 &lt;code&gt; Code Fragment &lt;/tt&gt;字型表現，常用在程式碼的敘述上
-&lt;tr&gt;&lt;td&gt;&amp;lt;VAR&amp;gt;&lt;td&gt;將所標記的文字以 &lt;var&gt; Variable &lt;/var&gt;字型表現，常用在算數式的變數上
-&lt;/table&gt;&lt;/p&gt;
-&lt;h3&gt;指令:&lt;/h3&gt;
-&lt;p&gt;&lt;pre class="brush: python"&gt;
-&lt;table align=center border=1 cellspacing=0 style="border:1px solid black" bgcolor=white&gt;
-&lt;tr&gt;&lt;th class=boldw&gt;標籤&lt;th class=boldw&gt;說明及範例
-&lt;tr&gt;&lt;td&gt;&amp;lt;B&amp;gt;&lt;td&gt;將所標記的文字&lt;b&gt;字型加粗
-&lt;tr&gt;&lt;td&gt;&amp;lt;I&amp;gt;&lt;td&gt;將所標記的文字&lt;i&gt;變成斜體
-&lt;tr&gt;&lt;td&gt;&amp;lt;U&amp;gt;&lt;td&gt;將所標記的文字&lt;u&gt;加上底線&lt;/u&gt;
-&lt;tr&gt;&lt;td&gt;&amp;lt;STRIKE&amp;gt;&lt;td&gt;將所標記的文字&lt;strike&gt;畫線刪除&lt;/strike&gt;
-&lt;tr&gt;&lt;td&gt;&amp;lt;BIG&amp;gt;&lt;td&gt;將所標記的文字&lt;big&gt;放大&lt;/big&gt;
-&lt;tr&gt;&lt;td&gt;&amp;lt;SMALL&amp;gt;&lt;td&gt;將所標記的文字&lt;small&gt;縮小&lt;/small&gt;
-&lt;tr&gt;&lt;td&gt;&amp;lt;SUP&amp;gt;&lt;td&gt;將所標記的文字&lt;sup&gt;變成上標&lt;/sup&gt;
-&lt;tr&gt;&lt;td&gt;&amp;lt;SUB&amp;gt;&lt;td&gt;將所標記的文字&lt;sub&gt;變成下標&lt;/sub&gt;
-&lt;tr&gt;&lt;td&gt;&amp;lt;EM&amp;gt;&lt;td&gt;將所標記的文字&lt;em&gt;加以強調&lt;/em&gt;
-&lt;tr&gt;&lt;td&gt;&amp;lt;STRONG&amp;gt;&lt;td&gt;將所標記的文字&lt;strong&gt;加重語氣&lt;/strong&gt;
-&lt;tr&gt;&lt;td&gt;&amp;lt;TT&amp;gt;&lt;td&gt;將所標記的文字以 &lt;tt&gt; Teletype font &lt;/tt&gt;字型表現，常用在固定大小的文字上
-&lt;tr&gt;&lt;td&gt;&amp;lt;CODE&amp;gt;&lt;td&gt;將所標記的文字以 &lt;code&gt; Code Fragment &lt;/tt&gt;字型表現，常用在程式碼的敘述上
-&lt;tr&gt;&lt;td&gt;&amp;lt;VAR&amp;gt;&lt;td&gt;將所標記的文字以 &lt;var&gt; Variable &lt;/var&gt;字型表現，常用在算數式的變數上
-&lt;/table&gt;
-&lt;/pre&gt;&lt;/p&gt;
-&lt;hr&gt;
-
-&lt;h2&gt;換行指令:&lt;/h2&gt;
-&lt;h3&gt;列如:&lt;/h3&gt;
-&lt;p&gt;&lt;html&gt;
-&lt;body&gt;
-利用&amp;lt;br&amp;gt;來切換&lt;br&gt;到下一行
-&lt;p&gt;新的一個段落，會和前面的文字隔開一列&lt;hr&gt;換行並加上水平線
-&lt;blockquote&gt;文字會自成一個段落，並以縮排的方式表現出來，而且與上下文章保留一段空白&lt;/blockquote&gt;
-靠右視窗寬度50%無陰影粗10:
-&lt;hr align=right  width="50%" noshade size=10&gt;
-以上為換行指令範例
-&lt;/body&gt;
-&lt;/html&gt;&lt;/p&gt;
-&lt;h3&gt;指令:&lt;/h3&gt;
-&lt;p&gt;&lt;pre class="brush: python"&gt;
-&lt;html&gt;
-&lt;body&gt;
-利用＆lt;br＆gt;來切換&lt;br&gt;到下一行
-&lt;p&gt;新的一個段落，會和前面的文字隔開一列&lt;hr&gt;換行並加上水平線
-&lt;blockquote&gt;文字會自成一個段落，並以縮排的方式表現出來，而且與上下文章保留一段空白&lt;/blockquote&gt;
-靠右視窗寬度50%無陰影粗10:
-&lt;hr align=right  width="50%" noshade size=10&gt;
-以上為換行指令範例
-&lt;/body&gt;
-&lt;/html&gt;
-&lt;/pre&gt;
-為了不讓「小於」及「大於」符號被瀏覽器解譯，因此要寫成「＆lt;」和「＆gt;」。相關的對照表，會在後續章節說明。&lt;/p&gt;
-&lt;p&gt;&lt;img src="./../data/texts/hr.png" width="800" /&gt;&lt;/p&gt;
-&lt;hr&gt;
-
-&lt;h2&gt;字體大小和位置:&lt;/h2&gt;
-&lt;h3&gt;列如:&lt;/h3&gt;
-&lt;p&gt;&lt;h1 align="left"&gt;H1在左邊&lt;/h1&gt;
-&lt;p&gt;
-&lt;h6 align="right"&gt;H6在右邊&lt;/h6&gt;
-&lt;p&gt;
-&lt;h3 align="center"&gt;範圍:H1到H6,H1為最大,H6為最小&lt;/h3&gt;
-&lt;p&gt;
-&lt;FONT SIZE=1&gt;字體大小為1&lt;/FONT&gt;
-&lt;p&gt;
-&lt;FONT SIZE=7&gt;字體大小為7&lt;/FONT&gt;
-&lt;p&gt;
-&lt;FONT SIZE=3&gt;可輸入比7大的值,但最大的顯示只會到7&lt;/FONT&gt;
-&lt;p&gt;
-&lt;FONT SIZE=-3&gt;可輸入負數來縮小字體大小&lt;/FONT&gt;
-&lt;p&gt;
-FACE="Symbol" 你便可以顯示羅馬字母 &lt;FONT FACE="Symbol"&gt;a, b, c, d&lt;/FONT&gt;
-&lt;p&gt;
-用 FACE="標楷體" 來顯示 &lt;FONT FACE="標楷體"&gt;中文標楷體&lt;/FONT&gt;
-&lt;p&gt;
-&lt;FONT  COLOR=#RRGGBB&gt;字的顏色&lt;/FONT&gt;&lt;/p&gt;
-&lt;h3&gt;指令:&lt;/h3&gt;
-&lt;p&gt;&lt;pre class="brush: python"&gt;
-&lt;h1 align="left"&gt;H1在左邊&lt;/h1&gt;
-&lt;p&gt;
-&lt;h6 align="right"&gt;H6在右邊&lt;/h6&gt;
-&lt;p&gt;
-&lt;h3 align="center"&gt;範圍:H1到H6,H1為最大,H6為最小&lt;/h3&gt;
-&lt;p&gt;
-&lt;FONT SIZE=1&gt;字體大小為1&lt;/FONT&gt;
-&lt;p&gt;
-&lt;FONT SIZE=7&gt;字體大小為7&lt;/FONT&gt;
-&lt;p&gt;
-&lt;FONT SIZE=3&gt;可輸入比7大的值,但最大的顯示只會到7&lt;/FONT&gt;
-&lt;p&gt;
-&lt;FONT SIZE=-3&gt;可輸入負數來縮小字體大小&lt;/FONT&gt;
-&lt;p&gt;
-FACE="Symbol" 你便可以顯示羅馬字母 &lt;FONT FACE="Symbol"&gt;a, b, c, d&lt;/FONT&gt;
-&lt;p&gt;
-用 FACE="標楷體" 來顯示 &lt;FONT FACE="標楷體"&gt;中文標楷體&lt;/FONT&gt;
-&lt;p&gt;
-&lt;FONT  COLOR=#RRGGBB&gt;字的顏色&lt;/FONT&gt;
-&lt;/pre&gt;&lt;/p&gt;
-&lt;h3&gt;說明hn:&lt;/h3&gt;
-&lt;p&gt;&lt;table border="10" width="100%" align="center"&gt;
-&lt;tr&gt;
-&lt;td  style="text-align:center" bgcolor='#FFD78C'&gt;標籤&lt;/td&gt;&lt;td style="text-align:center" bgcolor='#FFD78C'&gt;語法&lt;/td&gt;&lt;td style="text-align:center" bgcolor='#FFD78C'&gt;屬性&lt;/td&gt;
-&lt;tr&gt;
-&lt;td style="text-align:center"&gt;hn, n=1, 2, 3, 4, 5, 6&lt;td style="text-align:center"&gt;&amp;lt;hn&amp;gt;要顯示的內容&amp;lt;/hn&amp;gt;&lt;td style="text-align:center"&gt;ALIGN = left|right|center
-&lt;/table&gt;&lt;/p&gt;
-&lt;h3&gt;指令:&lt;/h3&gt;
-&lt;p&gt;&lt;pre class="brush: python"&gt;
-&lt;table border="10" width="100%" align="center"&gt;
-&lt;tr&gt;
-&lt;td  style="text-align:center" bgcolor='#FFD78C'&gt;標籤&lt;/td&gt;&lt;td style="text-align:center" bgcolor='#FFD78C'&gt;語法&lt;/td&gt;&lt;td style="text-align:center" bgcolor='#FFD78C'&gt;屬性&lt;/td&gt;
-&lt;tr&gt;
-&lt;td style="text-align:center"&gt;hn, n=1, 2, 3, 4, 5, 6&lt;td style="text-align:center"&gt;&amp;lt;hn&amp;gt;要顯示的內容&amp;lt;/hn&amp;gt;&lt;td style="text-align:center"&gt;ALIGN = left|right|center
-&lt;/table&gt;
-&lt;/pre&gt;&lt;/p&gt;
-&lt;h3&gt;表格說明FONT:&lt;/h3&gt;
-&lt;p&gt;&lt;table border="10" width="100%" align="center"&gt;
-&lt;tr&gt;
-&lt;td  style="text-align:center" bgcolor='#FFD78C'&gt;標籤&lt;/td&gt;&lt;td style="text-align:center" bgcolor='#FFD78C'&gt;語法&lt;/td&gt;&lt;td style="text-align:center" bgcolor='#FFD78C'&gt;屬性&lt;/td&gt;
-&lt;tr&gt;
-&lt;td style="text-align:center"&gt;FONT&lt;td style="text-align:center"&gt;&amp;lt;FONT&amp;gt;要顯示的內容&amp;lt;/FONT&amp;gt;&lt;td style="text-align:center"&gt;SIZE=string, COLOR=#RRGGBB, FACE=font names
-&lt;/table&gt;&lt;/p&gt;
-&lt;h3&gt;指令:&lt;/h3&gt;
-&lt;p&gt;&lt;pre class="brush: python"&gt;
-&lt;table border="10" width="100%" align="center"&gt;
-&lt;tr&gt;
-&lt;td  style="text-align:center" bgcolor='#FFD78C'&gt;標籤&lt;/td&gt;&lt;td style="text-align:center" bgcolor='#FFD78C'&gt;語法&lt;/td&gt;&lt;td style="text-align:center" bgcolor='#FFD78C'&gt;屬性&lt;/td&gt;
-&lt;tr&gt;
-&lt;td style="text-align:center"&gt;FONT&lt;td style="text-align:center"&gt;&amp;lt;FONT&amp;gt;要顯示的內容&amp;lt;/FONT&amp;gt;&lt;td style="text-align:center"&gt;SIZE=string, COLOR=#RRGGBB, FACE=font names
-&lt;/table&gt;
-&lt;/pre&gt;&lt;/p&gt;
-&lt;table align=center border=1 cellspacing=0 style="border:1px solid black" bgcolor=white&gt;
-&lt;tr&gt;&lt;td class=boldw&gt;講解&lt;td colspan=2&gt;&amp;lt;pre&amp;gt; (Preformatted Text) 所標記起來的是預先已排版過的文章，使其以原貌表現在網頁上。雖然 &amp;ltpre&amp;gt; 可以將所標記的文字以原貌呈現出來，但文章中如果有 HTML 的標籤，瀏覽器仍會對其進行處理後，才會呈現出來。但如果我們只是要顯示標籤但不想要處理顯現標籤時，就可以改用 &amp;ltXMP&amp;gt; 標籤，此標籤會將所有其它的 HTML 標籤原封不動地呈現出來
-&lt;/table&gt;
-
-&lt;hr&gt;
-
-&lt;h3&gt;參考網站&lt;/h3&gt;
-&lt;p&gt;texts: 
-&lt;a href="https://mirlab.org/jang/books/html/"&gt;https://mirlab.org/jang/books/html/&lt;/a&gt;&lt;br/&gt;
-參考對象:
-&lt;img src="./../data/reference/張智星.png" width="150" /&gt;&lt;/p&gt;</summary><category term="HTML"></category><category term="Texts"></category></entry><entry><title>Total 總合</title><link href="./Total.html" rel="alternate"></link><published>2017-09-23T21:32:00+08:00</published><updated>2017-09-23T21:32:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-09-23:./Total.html</id><summary type="html">&lt;p&gt;總合全部的內容&lt;/p&gt;
+&lt;/table&gt;</summary><category term="HTML"></category></entry><entry><title>Total 總合</title><link href="./Total.html" rel="alternate"></link><published>2017-09-23T21:32:00+08:00</published><updated>2017-09-23T21:32:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-09-23:./Total.html</id><summary type="html">&lt;p&gt;總合全部的內容&lt;/p&gt;
 
 
 &lt;!-- 從2017springcd_hw複製過來 --&gt;
@@ -874,4 +715,4 @@ XMP 所產生的效果:
 &lt;p&gt;texts: 
 &lt;a href="https://mirlab.org/jang/books/html/"&gt;https://mirlab.org/jang/books/html/&lt;/a&gt;&lt;br/&gt;
 參考對象:
-&lt;img src="./../data/reference/張智星.png" width="150" /&gt;&lt;/p&gt;</summary><category term="HTML"></category><category term="Total"></category></entry></feed>
+&lt;img src="./../data/reference/張智星.png" width="150" /&gt;&lt;/p&gt;</summary><category term="HTML"></category></entry></feed>

@@ -1,7 +1,7 @@
 Title: HTML標籤
 Date: 2017-09-23 22:52
 Category: HTML
-Tags: HTML , Tags
+Tags: HTML , 目錄
 Slug: HTMLTags
 Author: 40423222
 
@@ -39,7 +39,7 @@ Author: 40423222
 <li>XMP 所產生的效果
 <li>class屬性
 </ul>
-<li><h3> <a href="https://40423222.github.io/HTML/blog/Total.html"><b>HTML-texts</b></a></h3>
+<li><h3> <a href="https://40423222.github.io/HTML/blog/Total.html"><b>Total 總合</b></a></h3>
 <ul>
 <li>總合全部的內容
 </ul>
