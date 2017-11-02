@@ -52,8 +52,11 @@
 <v t="leo.20170923220516.1"><vh>@edit 數學公式指令.md</vh></v>
 <v t="leo.20170923220524.1"><vh>@edit 跑馬燈指令.md</vh></v>
 <v t="leo.20170923220533.1"><vh>@edit 顯示程式指令.md</vh></v>
-<v t="leo.20170923220541.1"><vh>@edit HTML標籤.md</vh></v>
-<v t="yen.20170108171733.81" a="E"><vh>@path pages</vh>
+<v t="leo.20171102204146.1"><vh>@edit 顯示圖片.md</vh></v>
+<v t="leo.20171102221205.1"><vh>@path 標籤</vh>
+<v t="leo.20171102221233.1"><vh>@edit HTML標籤.md</vh></v>
+</v>
+<v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
 </v>
@@ -81,6 +84,7 @@
 <v t="yen.20170209024032.1"><vh>reference</vh></v>
 </vnodes>
 <tnodes>
+<t tx="leo.20171102221205.1"></t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/

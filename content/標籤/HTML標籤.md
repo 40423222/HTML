@@ -1,5 +1,5 @@
 Title: HTML標籤
-Date: 2017-09-23 22:52
+Date: 2017-11-12 22:11
 Category: HTML
 Tags: HTML , 目錄
 Slug: HTMLTags
@@ -11,7 +11,7 @@ Author: 40423222
 <!-- 從2017springcd_hw複製過來 -->
 <hr>
 
-# 20170608-20170923
+<!-- 20170608-20170923-20171112 -->
 
 <hr>
 
@@ -42,6 +42,8 @@ Author: 40423222
 <li><h3> <a href="https://40423222.github.io/HTML/blog/Total.html"><b>Total 總合</b></a></h3>
 <ul>
 <li>總合全部的內容
+</ul>
+<li><h3> <a href="https://40423222.github.io/HTML/blog/ShowImg.html"><b>顯示圖片</b></a></h3>
 </ul>
 
 <hr>
