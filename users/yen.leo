@@ -46,14 +46,19 @@
 </v>
 <v t="yen.20170108171733.71" a="E"><vh>@path content</vh>
 <v t="leo.20170621064408.1"><vh>@edit 總合.md</vh></v>
-<v t="leo.20170923220446.1"><vh>@edit 字體效果.md</vh></v>
+<v t="leo.20180127202752.1"><vh>@path HTML</vh>
 <v t="leo.20170923220458.1"><vh>@edit 換行指令.md</vh></v>
-<v t="leo.20170923220507.1"><vh>@edit 表格指令.md</vh></v>
 <v t="leo.20170923220516.1"><vh>@edit 數學公式指令.md</vh></v>
+<v t="leo.20170923220446.1"><vh>@edit 字體效果.md</vh></v>
+<v t="leo.20170923220507.1"><vh>@edit 表格指令.md</vh></v>
 <v t="leo.20170923220524.1"><vh>@edit 跑馬燈指令.md</vh></v>
 <v t="leo.20170923220533.1"><vh>@edit 顯示程式指令.md</vh></v>
 <v t="leo.20171102204146.1"><vh>@edit 顯示圖片.md</vh></v>
-<v t="leo.20171102221205.1"><vh>@path 標籤</vh>
+</v>
+<v t="leo.20180127202929.1"><vh>@path Color</vh>
+<v t="leo.20180127202929.2"><vh>@edit 十六進位顏色表.md</vh></v>
+</v>
+<v t="leo.20171102221205.1" a="E"><vh>@path 標籤</vh>
 <v t="leo.20171102221233.1"><vh>@edit HTML標籤.md</vh></v>
 </v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
@@ -85,6 +90,8 @@
 </vnodes>
 <tnodes>
 <t tx="leo.20171102221205.1"></t>
+<t tx="leo.20180127202752.1"></t>
+<t tx="leo.20180127202929.1"></t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/

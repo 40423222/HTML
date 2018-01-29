@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/html.atom.xml" rel="self"></link><id>./</id><updated>2017-11-12T22:11:00+08:00</updated><entry><title>HTML標籤</title><link href="./HTMLTags.html" rel="alternate"></link><published>2017-11-12T22:11:00+08:00</published><updated>2017-11-12T22:11:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-11-12:./HTMLTags.html</id><summary type="html">&lt;p&gt;以下為HTML的各自範例的列表&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/html.atom.xml" rel="self"></link><id>./</id><updated>2018-01-27T20:41:00+08:00</updated><entry><title>HTML標籤</title><link href="./HTMLTags.html" rel="alternate"></link><published>2018-01-27T20:41:00+08:00</published><updated>2018-01-27T20:41:00+08:00</updated><author><name>40423222</name></author><id>tag:,2018-01-27:./HTMLTags.html</id><summary type="html">&lt;p&gt;以下為HTML的各自範例的列表&lt;/p&gt;
 
 
 &lt;!-- 從2017springcd_hw複製過來 --&gt;
 
 &lt;hr&gt;
 
-&lt;!-- 20170608-20170923-20171112 --&gt;
+&lt;!-- 20170608-20170923-20171112-20180127 --&gt;
 
 &lt;hr&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;h3&gt; &lt;a href="https://40423222.github.io/HTML/blog/Font.html"&gt;&lt;b&gt;字體效果&lt;/b&gt;&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;字體大小
-&lt;li&gt;顏色
-&lt;li&gt;字型
-&lt;li&gt;其他效果
+&lt;li&gt;&lt;h4&gt;字體大小&lt;/h4&gt;
+&lt;li&gt;&lt;span style="background-color: #ffff00"&gt;&lt;font color="#RRGGBB"&gt;顏色&lt;/font&gt;&lt;/span&gt;
+&lt;li&gt;&lt;font face="標楷體"&gt;字型&lt;/font&gt;
+&lt;li&gt;&lt;b&gt;&lt;i&gt;&lt;u&gt;其他效果&lt;/u&gt;&lt;/i&gt;&lt;/b&gt;
 &lt;/ul&gt;
 &lt;li&gt;&lt;h3&gt; &lt;a href="https://40423222.github.io/HTML/blog/Paragraphs.html"&gt;&lt;b&gt;換行指令&lt;/b&gt;&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
@@ -26,19 +26,38 @@
 &lt;li&gt;集中
 &lt;/ul&gt;
 &lt;li&gt;&lt;h3&gt; &lt;a href="https://40423222.github.io/HTML/blog/Table.html"&gt;&lt;b&gt;表格&lt;/b&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;table border="2" width="15%" align="left"&gt;
+&lt;td align="center"&gt;Table&lt;/td&gt;
+&lt;td align="center"&gt;1&lt;/td&gt;
+&lt;td align="center"&gt;2&lt;/td&gt;
+&lt;td align="center"&gt;3&lt;/td&gt;
+&lt;/table&gt;
+&lt;/ul&gt;
 &lt;li&gt;&lt;h3&gt; &lt;a href="https://40423222.github.io/HTML/blog/Formula.html"&gt;&lt;b&gt;數學公式&lt;/b&gt;&lt;/a&gt;&lt;/h3&gt;
 &lt;li&gt;&lt;h3&gt; &lt;a href="https://40423222.github.io/HTML/blog/ScrollingText.html"&gt;&lt;b&gt;跑馬燈&lt;/b&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;marquee direction=left  bgcolor="#ffff00" behavior=scroll    scrollamount=10 scrolldelay=100&gt;跑馬燈 跑馬燈 跑馬燈 跑馬燈 跑馬燈 跑馬燈 跑馬燈 跑馬燈 跑馬燈 跑馬燈 跑馬燈 跑馬燈 跑馬燈 跑馬燈 跑馬燈 跑馬燈 跑馬燈 跑馬燈 跑馬燈 跑馬燈&lt;/marquee&gt; 
+&lt;/ul&gt;
 &lt;li&gt;&lt;h3&gt; &lt;a href="https://40423222.github.io/HTML/blog/ShowCode.html"&gt;&lt;b&gt;程式顯示&lt;/b&gt;&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;PRE 所產生的效果
 &lt;li&gt;XMP 所產生的效果
 &lt;li&gt;class屬性
+&lt;li&gt;\絕對顯示
 &lt;/ul&gt;
 &lt;li&gt;&lt;h3&gt; &lt;a href="https://40423222.github.io/HTML/blog/Total.html"&gt;&lt;b&gt;Total 總合&lt;/b&gt;&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;總合全部的內容
+&lt;li&gt;總合以上全部的內容
 &lt;/ul&gt;
 &lt;li&gt;&lt;h3&gt; &lt;a href="https://40423222.github.io/HTML/blog/ShowImg.html"&gt;&lt;b&gt;顯示圖片&lt;/b&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;圖片的 大小 / 位置 / 標示
+&lt;/ul&gt;
+&lt;li&gt;&lt;h3&gt; &lt;a href="https://40423222.github.io/HTML/blog/HexadecimalColorTable.html"&gt;&lt;b&gt;十六進位顏色表&lt;/b&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;使用&lt;span style="background-color: #ffff00"&gt;color="#123456"&lt;/span&gt;來決定顏色
+&lt;/ul&gt;
 &lt;/ul&gt;
 
 &lt;hr&gt;
@@ -143,6 +162,23 @@ PRE 所產生的效果:
     This is a test by &lt;a href="/jang"&gt;Roger Jang&lt;/a&gt;.
     1&lt;br&gt;2&lt;p&gt;&lt;marquee direction=left  bgcolor="#9999ff" behavior=alternate scrollamount=30 scrolldelay=100&gt;嘿嘿！我是三號跑馬燈&lt;/marquee&gt;
 &lt;/xmp&gt;
+&lt;/pre&gt;&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;h2&gt;\絕對顯示:&lt;/h2&gt;
+&lt;p&gt;使用這\符號,能顯示所有的特殊符號(包括xmp不能顯示的符號)&lt;br&gt;
+缺點: 不能顯示&amp;lt;&amp;gt;,指令不能顯示. 
+而且一個\符號,只能顯示一個特殊符號&lt;br&gt;
+例如: **,&lt;em&gt;123&lt;/em&gt;,*456&lt;em&gt;,789&lt;/em&gt;&lt;/p&gt;
+&lt;h3&gt;指令:&lt;/h3&gt;
+&lt;p&gt;&lt;pre&gt;
+&lt;xmp&gt;
+使用這\符號,能顯示所有的特殊符號(包括xmp不能顯示的符號)&lt;br&gt;
+缺點: 不能顯示&amp;lt;&amp;gt;,指令不能顯示.
+而且一個\符號指能顯示一個特殊符號&lt;br&gt;
+例如: \*\*,*123*,\*456*,789*
+在這多家很多\,防止*符號被啟用
+&lt;/xmp&gt;
 &lt;/pre&gt;&lt;/p&gt;</summary><category term="HTML"></category></entry><entry><title>ScrollingText 跑馬燈指令</title><link href="./ScrollingText.html" rel="alternate"></link><published>2017-09-23T22:31:00+08:00</published><updated>2017-09-23T22:31:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-09-23:./ScrollingText.html</id><summary type="html">&lt;p&gt;以下為HTML的Scrolling text說明&lt;/p&gt;
 
 
@@ -228,7 +264,7 @@ exp[-(x-&lt;font face=symbol&gt;m&lt;/font&gt;)&lt;sup&gt;T&lt;/sup&gt;&lt;font 
 &lt;/pre&gt;&lt;/p&gt;</summary><category term="HTML"></category></entry><entry><title>Table 表格指令</title><link href="./Table.html" rel="alternate"></link><published>2017-09-23T22:28:00+08:00</published><updated>2017-09-23T22:28:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-09-23:./Table.html</id><summary type="html">&lt;p&gt;以下為HTML的Table說明&lt;/p&gt;
 
 
-&lt;!-- 從2017springcd_hw複製過來 --&gt;
+&lt;!-- 20180127(新增進階範例) --&gt;
 
 &lt;hr&gt;
 
@@ -236,7 +272,7 @@ exp[-(x-&lt;font face=symbol&gt;m&lt;/font&gt;)&lt;sup&gt;T&lt;/sup&gt;&lt;font 
 &lt;table border="5" width="100%" align="center"&gt;
 &lt;tr&gt;
 &lt;td  style="text-align:center" bgcolor='#FFD78C'&gt;標籤&lt;/td&gt;
-&lt;td style="text-align:center" &gt;table&lt;/td&gt;
+&lt;td style="text-align:center"&gt;table&lt;/td&gt;
 &lt;tr&gt;
 &lt;td style="text-align:center" rowspan="2" bgcolor='#FFD78C'&gt;語法&lt;/td&gt;
 &lt;td style="text-align:center"&gt;&amp;lt;table&amp;gt;要顯示的內容&amp;lt;/table&amp;gt;&lt;/td&gt;
@@ -265,7 +301,7 @@ exp[-(x-&lt;font face=symbol&gt;m&lt;/font&gt;)&lt;sup&gt;T&lt;/sup&gt;&lt;font 
 &lt;table border="5" width="100%" align="center"&gt;
 &lt;tr&gt;
 &lt;td  style="text-align:center" bgcolor='#FFD78C'&gt;標籤&lt;/td&gt;
-&lt;td style="text-align:center" &gt;table&lt;/td&gt;
+&lt;td style="text-align:center"&gt;table&lt;/td&gt;
 &lt;tr&gt;
 &lt;td style="text-align:center" rowspan="2" bgcolor='#FFD78C'&gt;語法&lt;/td&gt;
 &lt;td style="text-align:center"&gt;&amp;lt;table&amp;gt;要顯示的內容&amp;lt;/table&amp;gt;&lt;/td&gt;
@@ -288,6 +324,70 @@ exp[-(x-&lt;font face=symbol&gt;m&lt;/font&gt;)&lt;sup&gt;T&lt;/sup&gt;&lt;font 
 &lt;td style="text-align:center"&gt;valign字體在這格的垂直放置位置&lt;/td&gt;
 &lt;/table&gt;
 &lt;/xmp&gt;
+&lt;/pre&gt;&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;h2&gt;&lt;B&gt;進階:&lt;/B&gt;&lt;/h2&gt;
+&lt;table border="10" width="40%" align="left"&gt;
+&lt;tr&gt;
+&lt;td  style="text-align:center" width="30%" bgcolor='#FFD78C'&gt;變色標籤&lt;/td&gt;
+&lt;td style="text-align:center" colspan="2" bgcolor="     #FFA488"&gt;&lt;font color="#0066FF"&gt;table&lt;/font&gt;&lt;/td&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center" rowspan="2" bgcolor='#FFD78C'&gt;複數格&lt;/td&gt;
+&lt;td style="text-align:center" colspan="2"&gt;1&lt;/td&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center" width="35%"&gt;2&lt;/td&gt;
+&lt;td style="text-align:center" width="35%"&gt;3&lt;/td&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center" rowspan="7" bgcolor='#FFD78C'&gt;直列&lt;/td&gt;
+&lt;td style="text-align:center" colspan="2"&gt;&lt;marquee direction=left  bgcolor="#FF0000 " behavior=scroll scrollamount=10 scrolldelay=100&gt;&lt;font color="#ffffff"&gt;1&lt;/font&gt;&lt;/marquee&gt;&lt;/td&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center" colspan="2"&gt;&lt;marquee direction=right  bgcolor="#FF8800 " behavior=scroll scrollamount=10 scrolldelay=100&gt;&lt;font color="#ffffff"&gt;2&lt;/font&gt;&lt;/marquee&gt;&lt;/td&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center" colspan="2"&gt;&lt;marquee direction=left  bgcolor="#ffff00" behavior=scroll scrollamount=10 scrolldelay=100&gt;&lt;font color="#000000"&gt;3&lt;/font&gt;&lt;/marquee&gt;&lt;/td&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center" colspan="2"&gt;&lt;marquee direction=right  bgcolor="#00FF00" behavior=scroll scrollamount=10 scrolldelay=100&gt;&lt;font color="#ffffff"&gt;4&lt;/font&gt;&lt;/marquee&gt;&lt;/td&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center" colspan="2"&gt;&lt;marquee direction=left  bgcolor="#0000FF " behavior=scroll scrollamount=10 scrolldelay=100&gt;&lt;font color="#ffffff"&gt;5&lt;/font&gt;&lt;/marquee&gt;&lt;/td&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center" colspan="2"&gt;&lt;marquee direction=right  bgcolor="#4400CC " behavior=scroll scrollamount=10 scrolldelay=100&gt;&lt;font color="#ffffff"&gt;6&lt;/font&gt;&lt;/marquee&gt;&lt;/td&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center" colspan="2"&gt;&lt;marquee direction=left  bgcolor="#660077 " behavior=scroll scrollamount=10 scrolldelay=100&gt;&lt;font color="#ffffff"&gt;7&lt;/font&gt;&lt;/marquee&gt;&lt;/td&gt;
+&lt;/table&gt;
+
+&lt;table border="0" width="100%" align="center"&gt;
+&lt;/table&gt;
+
+&lt;h3&gt;指令:&lt;/h3&gt;
+&lt;p&gt;&lt;pre class="brush: python"&gt;
+&lt;table border="10" width="40%" align="left"&gt;
+&lt;tr&gt;
+&lt;td  style="text-align:center" width="30%" bgcolor='#FFD78C'&gt;變色標籤&lt;/td&gt;
+&lt;td style="text-align:center" colspan="2" bgcolor="     #FFA488"&gt;&lt;font color="#0066FF"&gt;table&lt;/font&gt;&lt;/td&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center" rowspan="2" bgcolor='#FFD78C'&gt;複數格&lt;/td&gt;
+&lt;td style="text-align:center" colspan="2"&gt;1&lt;/td&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center" width="35%"&gt;2&lt;/td&gt;
+&lt;td style="text-align:center" width="35%"&gt;3&lt;/td&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center" rowspan="7" bgcolor='#FFD78C'&gt;直列&lt;/td&gt;
+&lt;td style="text-align:center" colspan="2"&gt;&lt;marquee direction=left  bgcolor="#FF0000 " behavior=scroll scrollamount=10 scrolldelay=100&gt;&lt;font color="#ffffff"&gt;1&lt;/font&gt;&lt;/marquee&gt;&lt;/td&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center" colspan="2"&gt;&lt;marquee direction=right  bgcolor="#FF8800 " behavior=scroll scrollamount=10 scrolldelay=100&gt;&lt;font color="#ffffff"&gt;2&lt;/font&gt;&lt;/marquee&gt;&lt;/td&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center" colspan="2"&gt;&lt;marquee direction=left  bgcolor="#ffff00" behavior=scroll scrollamount=10 scrolldelay=100&gt;&lt;font color="#000000"&gt;3&lt;/font&gt;&lt;/marquee&gt;&lt;/td&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center" colspan="2"&gt;&lt;marquee direction=right  bgcolor="#00FF00" behavior=scroll scrollamount=10 scrolldelay=100&gt;&lt;font color="#ffffff"&gt;4&lt;/font&gt;&lt;/marquee&gt;&lt;/td&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center" colspan="2"&gt;&lt;marquee direction=left  bgcolor="#0000FF " behavior=scroll scrollamount=10 scrolldelay=100&gt;&lt;font color="#ffffff"&gt;5&lt;/font&gt;&lt;/marquee&gt;&lt;/td&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center" colspan="2"&gt;&lt;marquee direction=right  bgcolor="#4400CC " behavior=scroll scrollamount=10 scrolldelay=100&gt;&lt;font color="#ffffff"&gt;6&lt;/font&gt;&lt;/marquee&gt;&lt;/td&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center" colspan="2"&gt;&lt;marquee direction=left  bgcolor="#660077 " behavior=scroll scrollamount=10 scrolldelay=100&gt;&lt;font color="#ffffff"&gt;7&lt;/font&gt;&lt;/marquee&gt;&lt;/td&gt;
+&lt;/table&gt;
+&lt;table border="0" width="100%" align="center"&gt;
+&lt;/table&gt; 在這多輸入一次table指令,可以防止文字被表格擠壓亂跑
 &lt;/pre&gt;&lt;/p&gt;</summary><category term="HTML"></category></entry><entry><title>Paragraphs 換行指令</title><link href="./Paragraphs.html" rel="alternate"></link><published>2017-09-23T22:23:00+08:00</published><updated>2017-09-23T22:23:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-09-23:./Paragraphs.html</id><summary type="html">&lt;p&gt;以下為HTML的Paragraphs說明&lt;/p&gt;
 
 

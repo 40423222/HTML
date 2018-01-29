@@ -105,6 +105,9 @@
                          <li><a href="./pages/about/">
                              About
                           </a></li>
+                        <li >
+                            <a href="./category/color.html">Color</a>
+                        </li>
                         <li class="active">
                             <a href="./category/html.html">Html</a>
                         </li>
@@ -159,7 +162,7 @@
                 <p>以下為HTML的Table說明</p>
 
 
-<!-- 從2017springcd_hw複製過來 -->
+<!-- 20180127(新增進階範例) -->
 
 <hr>
 
@@ -167,7 +170,7 @@
 <table border="5" width="100%" align="center">
 <tr>
 <td  style="text-align:center" bgcolor='#FFD78C'>標籤</td>
-<td style="text-align:center" >table</td>
+<td style="text-align:center">table</td>
 <tr>
 <td style="text-align:center" rowspan="2" bgcolor='#FFD78C'>語法</td>
 <td style="text-align:center">&lt;table&gt;要顯示的內容&lt;/table&gt;</td>
@@ -196,7 +199,7 @@
 <table border="5" width="100%" align="center">
 <tr>
 <td  style="text-align:center" bgcolor='#FFD78C'>標籤</td>
-<td style="text-align:center" >table</td>
+<td style="text-align:center">table</td>
 <tr>
 <td style="text-align:center" rowspan="2" bgcolor='#FFD78C'>語法</td>
 <td style="text-align:center">&lt;table&gt;要顯示的內容&lt;/table&gt;</td>
@@ -220,6 +223,70 @@
 </table>
 </xmp>
 </pre></p>
+<hr>
+
+<h2><B>進階:</B></h2>
+<table border="10" width="40%" align="left">
+<tr>
+<td  style="text-align:center" width="30%" bgcolor='#FFD78C'>變色標籤</td>
+<td style="text-align:center" colspan="2" bgcolor="     #FFA488"><font color="#0066FF">table</font></td>
+<tr>
+<td style="text-align:center" rowspan="2" bgcolor='#FFD78C'>複數格</td>
+<td style="text-align:center" colspan="2">1</td>
+<tr>
+<td style="text-align:center" width="35%">2</td>
+<td style="text-align:center" width="35%">3</td>
+<tr>
+<td style="text-align:center" rowspan="7" bgcolor='#FFD78C'>直列</td>
+<td style="text-align:center" colspan="2"><marquee direction=left  bgcolor="#FF0000 " behavior=scroll scrollamount=10 scrolldelay=100><font color="#ffffff">1</font></marquee></td>
+<tr>
+<td style="text-align:center" colspan="2"><marquee direction=right  bgcolor="#FF8800 " behavior=scroll scrollamount=10 scrolldelay=100><font color="#ffffff">2</font></marquee></td>
+<tr>
+<td style="text-align:center" colspan="2"><marquee direction=left  bgcolor="#ffff00" behavior=scroll scrollamount=10 scrolldelay=100><font color="#000000">3</font></marquee></td>
+<tr>
+<td style="text-align:center" colspan="2"><marquee direction=right  bgcolor="#00FF00" behavior=scroll scrollamount=10 scrolldelay=100><font color="#ffffff">4</font></marquee></td>
+<tr>
+<td style="text-align:center" colspan="2"><marquee direction=left  bgcolor="#0000FF " behavior=scroll scrollamount=10 scrolldelay=100><font color="#ffffff">5</font></marquee></td>
+<tr>
+<td style="text-align:center" colspan="2"><marquee direction=right  bgcolor="#4400CC " behavior=scroll scrollamount=10 scrolldelay=100><font color="#ffffff">6</font></marquee></td>
+<tr>
+<td style="text-align:center" colspan="2"><marquee direction=left  bgcolor="#660077 " behavior=scroll scrollamount=10 scrolldelay=100><font color="#ffffff">7</font></marquee></td>
+</table>
+
+<table border="0" width="100%" align="center">
+</table>
+
+<h3>指令:</h3>
+<p><pre class="brush: python">
+<table border="10" width="40%" align="left">
+<tr>
+<td  style="text-align:center" width="30%" bgcolor='#FFD78C'>變色標籤</td>
+<td style="text-align:center" colspan="2" bgcolor="     #FFA488"><font color="#0066FF">table</font></td>
+<tr>
+<td style="text-align:center" rowspan="2" bgcolor='#FFD78C'>複數格</td>
+<td style="text-align:center" colspan="2">1</td>
+<tr>
+<td style="text-align:center" width="35%">2</td>
+<td style="text-align:center" width="35%">3</td>
+<tr>
+<td style="text-align:center" rowspan="7" bgcolor='#FFD78C'>直列</td>
+<td style="text-align:center" colspan="2"><marquee direction=left  bgcolor="#FF0000 " behavior=scroll scrollamount=10 scrolldelay=100><font color="#ffffff">1</font></marquee></td>
+<tr>
+<td style="text-align:center" colspan="2"><marquee direction=right  bgcolor="#FF8800 " behavior=scroll scrollamount=10 scrolldelay=100><font color="#ffffff">2</font></marquee></td>
+<tr>
+<td style="text-align:center" colspan="2"><marquee direction=left  bgcolor="#ffff00" behavior=scroll scrollamount=10 scrolldelay=100><font color="#000000">3</font></marquee></td>
+<tr>
+<td style="text-align:center" colspan="2"><marquee direction=right  bgcolor="#00FF00" behavior=scroll scrollamount=10 scrolldelay=100><font color="#ffffff">4</font></marquee></td>
+<tr>
+<td style="text-align:center" colspan="2"><marquee direction=left  bgcolor="#0000FF " behavior=scroll scrollamount=10 scrolldelay=100><font color="#ffffff">5</font></marquee></td>
+<tr>
+<td style="text-align:center" colspan="2"><marquee direction=right  bgcolor="#4400CC " behavior=scroll scrollamount=10 scrolldelay=100><font color="#ffffff">6</font></marquee></td>
+<tr>
+<td style="text-align:center" colspan="2"><marquee direction=left  bgcolor="#660077 " behavior=scroll scrollamount=10 scrolldelay=100><font color="#ffffff">7</font></marquee></td>
+</table>
+<table border="0" width="100%" align="center">
+</table> 在這多輸入一次table指令,可以防止文字被表格擠壓亂跑
+</pre></p>
             </div>
             <!-- /.entry-content -->
         </article>
@@ -240,6 +307,11 @@
                         </a>
                     </li>
                     <li class="list-group-item">
+                        <a href="./HexadecimalColorTable.html">
+                            HexadecimalColorTable 十六進位顏色表
+                        </a>
+                    </li>
+                    <li class="list-group-item">
                         <a href="./ShowImg.html">
                             ShowImg 顯示圖片
                         </a>
@@ -254,16 +326,16 @@
                             ScrollingText 跑馬燈指令
                         </a>
                     </li>
-                    <li class="list-group-item">
-                        <a href="./Formula.html">
-                            Formula 數學公式指令
-                        </a>
-                    </li>
                 </ul>
             </li>
 
             <li class="list-group-item"><a href="./categories.html"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Categories</span></h4></a>
                 <ul class="list-group" id="categories">
+                    <li class="list-group-item">
+                        <a href="./category/color.html">
+                            <i class="fa fa-folder-open fa-lg"></i> Color
+                        </a>
+                    </li>
                     <li class="list-group-item">
                         <a href="./category/html.html">
                             <i class="fa fa-folder-open fa-lg"></i> HTML
@@ -310,7 +382,7 @@
    <div class="container">
       <hr>
       <div class="row">
-         <div class="col-xs-10">&copy; 2017 KMOL
+         <div class="col-xs-10">&copy; 2018 KMOL
             &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
             <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
             <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>
